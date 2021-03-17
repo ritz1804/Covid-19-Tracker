@@ -7,7 +7,7 @@ Show some love 💜 and Star ⭐️ the Repository to support the project.
 
 |                 Home Screen               |                 Search Screen                |                    Search Result Screen                    |
 |:-------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|
-| <img width="1604" src="screenshot1.jpg"> | <img width="1604" src="screenshot2.jpg"> | <img width="1604" src="screenshot3.jpg"> |
+| <img width="1604" src="screenshot1 (1).jpg"> | <img width="1604" src="screenshot2.jpg"> | <img width="1604" src="screenshot3.jpg"> |
 
 ## :bookmark_tabs: What’s In This Document
 
